@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+E:\Ping pong\Bing Blitz\Bing Blitz\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Ping pong\Bing Blitz\Bing Blitz\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Ping pong\Bing Blitz\Bing Blitz\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Ping pong\Bing Blitz\Bing Blitz\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Bing Blitz.vcxproj -> E:\Ping pong\Bing Blitz\x64\Debug\Bing Blitz.exe
