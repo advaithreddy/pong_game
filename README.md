@@ -36,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-For any inquiries or feedback, please contact [advaithbaddam5@gmail.com].
+For any inquiries or feedback, please contact [Me](advaithbaddam5@gmail.com).
